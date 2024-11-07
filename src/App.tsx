@@ -1,7 +1,12 @@
 import React from "react";
+import HeaderComp from "./Components/HeaderComp";
 
 const App = () => {
-  return <div>App</div>;
+  return (
+    <div>
+      <HeaderComp />
+    </div>
+  );
 };
 
 export default App;

@@ -1,10 +1,10 @@
 import React from "react";
-import Hero from "./Components/Hero";
+import HeaderComp from "./Components/HeaderComp";
 
 const App = () => {
   return (
     <div>
-      <Hero />
+      <HeaderComp />
     </div>
   );
 };
